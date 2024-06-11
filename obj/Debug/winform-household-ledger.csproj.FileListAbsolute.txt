@@ -1,0 +1,10 @@
+C:\Users\leunk\OneDrive - Sejong University\바탕 화면\winform-household-ledger\bin\Debug\winform-household-ledger.exe.config
+C:\Users\leunk\OneDrive - Sejong University\바탕 화면\winform-household-ledger\bin\Debug\winform-household-ledger.exe
+C:\Users\leunk\OneDrive - Sejong University\바탕 화면\winform-household-ledger\bin\Debug\winform-household-ledger.pdb
+C:\Users\leunk\OneDrive - Sejong University\바탕 화면\winform-household-ledger\obj\Debug\winform-household-ledger.csproj.AssemblyReference.cache
+C:\Users\leunk\OneDrive - Sejong University\바탕 화면\winform-household-ledger\obj\Debug\winform_household_ledger.Form1.resources
+C:\Users\leunk\OneDrive - Sejong University\바탕 화면\winform-household-ledger\obj\Debug\winform_household_ledger.Properties.Resources.resources
+C:\Users\leunk\OneDrive - Sejong University\바탕 화면\winform-household-ledger\obj\Debug\winform-household-ledger.csproj.GenerateResource.cache
+C:\Users\leunk\OneDrive - Sejong University\바탕 화면\winform-household-ledger\obj\Debug\winform-household-ledger.csproj.CoreCompileInputs.cache
+C:\Users\leunk\OneDrive - Sejong University\바탕 화면\winform-household-ledger\obj\Debug\winform-household-ledger.exe
+C:\Users\leunk\OneDrive - Sejong University\바탕 화면\winform-household-ledger\obj\Debug\winform-household-ledger.pdb
